@@ -16,7 +16,7 @@ public class FibonacciStream {
             num2 = sum;
         }
 
-        System.out.println("");
+        System.out.println(" ");
         System.out.println("Fibonacci Stream");
 
         //convertir esto de formadeclarativas
